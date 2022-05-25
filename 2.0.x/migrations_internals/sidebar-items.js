@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["file_names",""],["migrations_directories",""],["search_for_migrations_directory",""],["valid_sql_migration_directory",""],["version_from_string",""]]});
